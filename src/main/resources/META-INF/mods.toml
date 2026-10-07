@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="GPL-3.0-only"
+mixinConfigs="taczmeshloader.mixins.json"
+
+[[mods]]
+modId="taczmeshloader"
+version="0.1.17-public.1"
+authors = "VellEagle, TML-Fork contributors"
+displayName="TML-Fork"
+displayURL = "https://github.com/lingweiliang2510579032/TML-Fork"
+logoFile = "tmllogo.png"
+description='''This mod allows TacZ to load mesh geometry created with the Meshy plugin.'''
+
+[[dependencies.${mod_id}]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="tacz"
+    mandatory=true
+    versionRange="[1.1.8,)"
+    ordering="AFTER"
+    side="CLIENT"
+
+[modproperties.taczmeshloader]
+catalogueImageIcon = "assets/taczmeshloader/icon.png"

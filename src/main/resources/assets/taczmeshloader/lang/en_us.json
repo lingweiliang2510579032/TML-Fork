@@ -1,0 +1,11 @@
+{
+  "item.taczmeshloader.skin_card": "Skin Card",
+  "item.taczmeshloader.skin_card.named": "Skin Card: %s",
+  "item.taczmeshloader.skin_card.tip.gun": "For: %s",
+  "item.taczmeshloader.skin_card.tip.use": "Install it in the skin slot of the refit screen (Z)",
+  "item.taczmeshloader.skin_card.msg.need_gun": "Hold the matching gun first",
+  "item.taczmeshloader.skin_card.msg.wrong_gun": "This card does not belong to that gun",
+  "item.taczmeshloader.skin_card.msg.applied": "Skin applied: %s",
+  "itemGroup.taczmeshloader.skin": "Skins",
+  "taczmeshloader.type.skin.name": "Skins"
+}

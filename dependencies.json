@@ -1,0 +1,12 @@
+[
+  {
+    "name": "simplebedrockmodel-2.2.2-forge+mc1.20.1-sources.jar",
+    "sha256": "4b886dc17e72b780517b74bca2741008ddaca634d242b756f3e698cae57606c9",
+    "url": "https://raw.githubusercontent.com/VellEagle/TacZMeshLoader/a3faaaf45ed956351278a5b6f86b4140f48439ea/libs/simplebedrockmodel-2.2.2-forge+mc1.20.1-sources.jar"
+  },
+  {
+    "name": "simplebedrockmodel-2.2.2-forge+mc1.20.1.jar",
+    "sha256": "12b7b664e9c434b73f1655f8402050385c526802f2de059ac51abfd60bbbb809",
+    "url": "https://raw.githubusercontent.com/VellEagle/TacZMeshLoader/a3faaaf45ed956351278a5b6f86b4140f48439ea/libs/simplebedrockmodel-2.2.2-forge+mc1.20.1.jar"
+  }
+]

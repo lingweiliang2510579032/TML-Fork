@@ -1,0 +1,11 @@
+{
+  "item.taczmeshloader.skin_card": "皮肤卡",
+  "item.taczmeshloader.skin_card.named": "皮肤卡：%s",
+  "item.taczmeshloader.skin_card.tip.gun": "适用：%s",
+  "item.taczmeshloader.skin_card.tip.use": "在改装界面（按 Z）的皮肤槽里选中安装",
+  "item.taczmeshloader.skin_card.msg.need_gun": "请先手持要换皮肤的那把枪",
+  "item.taczmeshloader.skin_card.msg.wrong_gun": "这张卡不属于这把枪",
+  "item.taczmeshloader.skin_card.msg.applied": "已换上皮肤：%s",
+  "itemGroup.taczmeshloader.skin": "皮肤",
+  "taczmeshloader.type.skin.name": "皮肤"
+}

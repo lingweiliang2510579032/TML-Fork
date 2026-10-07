@@ -1,0 +1,12 @@
+{
+  "version": "0.1.17-public.1",
+  "name": "TML 网格模型",
+  "description": "网格枪械加载器 / 皮肤卡",
+  "license": "GPL-3.0-only",
+  "authors": [
+    "VellEagle",
+    "TML-Fork contributors"
+  ],
+  "date": "2026-10-07",
+  "url": "https://github.com/lingweiliang2510579032/TML-Fork"
+}

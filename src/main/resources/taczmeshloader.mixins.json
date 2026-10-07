@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.example.taczmeshloader.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "taczmeshloader.refmap.json",
+  "client": [
+    "GunDisplayInstanceMixin",
+    "BedrockGunModelStencilMixin",
+    "ClientAttachmentIndexMixin",
+    "ClientAmmoIndexMixin",
+    "ClientBlockIndexMixin",
+    "lrtactical.LrDisplayInstanceMixin$MeleeMixin",
+    "lrtactical.LrDisplayInstanceMixin$ConsumableMixin",
+    "lrtactical.LrDisplayInstanceMixin$ThrowableMixin",
+    "lrtactical.LrDualHandLayerMixin",
+    "lrtactical.LrMeleeSkinMixin",
+    "lrtactical.LrYsmDualHandMixin",
+    "MuzzleFlashRenderMixin",
+    "BloomRenderMixin",
+    "FxAfterHandRenderMixin",
+    "SmithListScrollMixin",
+    "AimKeyMixin",
+    "ZoomKeyMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "BlockDataMixin"
+  ]
+}
